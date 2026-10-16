@@ -33,9 +33,3 @@ telecom-customer-churn-analysis/
 ├── notebooks/
 ├── screenshots/
 └── README.md
-
-## How to explore the project
-
-Open the Jupyter Notebook to review the analysis, code and findings. Screenshots of selected visualisations are available in the `screenshots` folder.
-
-**Note:** The dataset is not included in this repository. Running the notebook from beginning to end requires the original dataset and an appropriate local file path. The customer risk score is an exploratory, rule based approach rather than a machine learning prediction model.
